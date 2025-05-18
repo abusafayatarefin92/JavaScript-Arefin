@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1001",
+    "name": "Rahim",
+    "class": "10",
+    "department": "science"
+  },
+  {
+    "id": "1002",
+    "name": "Karim",
+    "class": "10",
+    "department": "Business Studies"
+  },
+  {
+    "id": "1003",
+    "name": "Sharim",
+    "class": "10",
+    "department": "Arts"
+  },
+  {
+    "id": "1004",
+    "name": "Marim",
+    "class": "10",
+    "department": "Science"
+  },
+  {
+    "id": "1005",
+    "name": "Tarim",
+    "class": "10",
+    "department": "Business Studies"
+  }
+]

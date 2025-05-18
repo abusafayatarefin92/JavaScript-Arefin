@@ -37,3 +37,9 @@ let reduceMethod = [10, 12, 13, 15];
 let sum = reduceMethod.reduce((a, b) => a + b, 0);
 
 console.log(sum + " reduce()")
+
+let joinMethod = [10, 12, 13, 15];
+let joinedString = joinMethod.join("-");
+
+console.log("Joined string:", joinedString + " join()");
+console.log(`Joined string: ${joinedString}`); //Using literal sign

@@ -5,6 +5,7 @@ Class work of javaScript are showing in here.
 npm init -y
 npm init
 node {fileName}
+npm i fs
 
 # PlayWrite:
 Official documentation: https://playwright.dev/
