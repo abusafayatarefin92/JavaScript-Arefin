@@ -9,7 +9,7 @@ function sumReturn(a, b) {
 let sumResult = sumReturn(6, 9);
 console.log(sumResult);
 
-let sumFunction = function sumReturn(a, b) {
+let sumFunction = function sumReturn2(a, b) {
     return a + b;
 };
 console.log(sumFunction(7, 9));
@@ -27,3 +27,12 @@ function checkLeapyear(year){
     }
 }
 console.log(checkLeapyear(2024));
+
+
+module.exports = {
+    sum, 
+    sumReturn,
+    sumFunction, 
+    sumFunctionAnnonymas, 
+    checkLeapyear
+};
