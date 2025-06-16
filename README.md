@@ -15,6 +15,7 @@ npm i shelljs
 npm test file {fileName}
 npm i axios
 npm i dotenv
+npm i faker
 
 # PlayWrite:
 Official documentation: https://playwright.dev/
